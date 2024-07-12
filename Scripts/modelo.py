@@ -10,9 +10,12 @@ import joblib
 # Disable scientific notation for clarity
 np.set_printoptions(suppress=True)
 
-# Path al modelo y al archivo con los labels codificados
-model_path = 'Model\modelo_entrenado.h5'
-label_encoder_path = 'Model\label_encoder.joblib'
+# Ruta absoluta
+script_dir = os.path.dirname(os.path.abspath(__file__))
+
+# Ruta a los archivos
+model_path = os.path.join(script_dir, '..', 'Model', 'modelo_entrenado.h5')
+label_encoder_path = os.path.join(script_dir, '..', 'Model', 'label_encoder.joblib')
 
 # Carga del modelo entrenado y del codificador de etiquetas
 model = load_model(model_path, compile=False)
