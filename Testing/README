@@ -1,0 +1,1 @@
+Esta carpeta contiene algunas imágenes (excluidas del entrenamiento) justamente para el testeo de las predicciones. Las imágenes no tienen ningún filtro aplicado y antes de ser enviadas al modelo son pre-tratadas para las predicciones. 
