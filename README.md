@@ -11,7 +11,7 @@ Breve descripción del proyecto.
 
 ## Tabla de contenidos
 
-1. [Nombre](#Nombre)
+1. [IA de reconocimiento de enfermedades oculares](#Nombre)
 2. [Descripción](#descripción)
 3. [Arquitectura](#Arquitectura)
 4. [Proceso](#Proceso)
