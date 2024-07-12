@@ -1,2 +1,2 @@
 Esta carpeta almacena todos los scripts necesarios para que el modelo funcione. El nombre de las carpetas es el preciso dentro de la estructura de los códigos, por lo que es necesario que de descargarse, se creen los mismos directorios.
-El único script relevante a correr es el "main", los demás son subprocesos.
+El único script relevante a correr es el de extensión .exe (Aunque no es un ejecutable), los demás son subprocesos que son necesarios para el programa.
