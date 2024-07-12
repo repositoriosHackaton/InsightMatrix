@@ -1,0 +1,1 @@
+Esta es la carpeta donde se almacena el modelo. El archivo de abajo es un archivo generado por keras (el de extensión .h5) y el otro es un .joblib que funciona para almacenar las etiquetas de cada enfermedad.
