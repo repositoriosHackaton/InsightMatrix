@@ -19,6 +19,8 @@ El proyecto utiliza una arquitectura basada en tensorflow y keras y en esencia e
 
 Los objetos "X_data" e "Y_data" provienen de imágenes pre-tratadas con diferentes filtros. 
 
+La estructura de carpetas aquí presentada es crucial para el correcto funcionamiento de la aplicación. Fundamentalmente, las carpetas de Script y Model deben coexistir en el mismo directorio principal. 
+
 # Proceso
 
 -El dataset es obtenido de una recopilación de diferentes estudios y otros datasets de Kagle. El dataset completo se puede encontrar en el siguiente link: https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification/data
